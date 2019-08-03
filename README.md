@@ -1,5 +1,6 @@
 # Amazon tracker (DEAL) 
-WARNING:--This App works only for product which are currently in DEAL category. if this app doesn't work try this app (LINK)
+WARNING:--This App works only for product which are currently in DEAL category. if this app doesn't work try this app 
+( https://github.com/ganeshShetty98/Amazon-Tracker )
 
 
 This app lets you get a notification toyour Gmail if your desired products get discount and gets into your budget.
